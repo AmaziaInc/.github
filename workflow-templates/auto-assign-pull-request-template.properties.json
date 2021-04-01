@@ -1,0 +1,5 @@
+{
+    "name": "Auto assign pull request",
+    "description": "Auto add assignee and reviewers workflow template.",
+    "iconName": "person-add.svg"
+}
